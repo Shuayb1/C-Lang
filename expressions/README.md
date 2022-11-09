@@ -1,0 +1,1 @@
+pre increment/decrement increase/decrease the value and store the result in a variable first before other operation, while post incr/decr will store the value after wards. Thus, pre incr/decr has higher value than post
